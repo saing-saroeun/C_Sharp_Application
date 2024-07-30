@@ -58,12 +58,6 @@
     <Compile Include="Frm_Dashboard.Designer.cs">
       <DependentUpon>Frm_Dashboard.cs</DependentUpon>
     </Compile>
-    <Compile Include="Frm_Register12.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Frm_Register12.Designer.cs">
-      <DependentUpon>Frm_Register12.cs</DependentUpon>
-    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
